@@ -1,0 +1,12 @@
+[2026-06-30 17:57:46] User: Kodithuwakku | Action: USER_REGISTRATION | Details: User registered successfully.
+[2026-06-30 17:58:04] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 1.
+[2026-06-30 17:58:19] User: Kodithuwakku | Action: USER_LOGIN | Details: Successful login.
+[2026-06-30 17:58:40] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 1.
+[2026-06-30 17:58:51] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 2.
+[2026-06-30 17:59:06] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 3.
+[2026-06-30 17:59:17] User: Kodithuwakku | Action: USER_LOGIN | Details: Successful login.
+[2026-06-30 17:59:41] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 1.
+[2026-06-30 17:59:54] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 2.
+[2026-06-30 18:00:03] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 3.
+[2026-06-30 18:00:12] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 4.
+[2026-06-30 18:00:21] User: Kodithuwakku | Action: ACCOUNT_LOCKOUT | Details: Account locked due to failed attempts.
