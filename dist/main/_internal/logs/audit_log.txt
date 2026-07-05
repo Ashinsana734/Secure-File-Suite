@@ -10,3 +10,17 @@
 [2026-06-30 18:00:03] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 3.
 [2026-06-30 18:00:12] User: Kodithuwakku | Action: LOGIN_FAILED | Details: Failed attempt 4.
 [2026-06-30 18:00:21] User: Kodithuwakku | Action: ACCOUNT_LOCKOUT | Details: Account locked due to failed attempts.
+[2026-07-05 08:36:20] User: Asinsana Kodithuwakku  | Action: USER_REGISTRATION | Details: User registered successfully.
+[2026-07-05 08:37:22] User: Asinsana | Action: USER_REGISTRATION | Details: User registered successfully.
+[2026-07-05 08:37:45] User: Asinsana | Action: LOGIN_FAILED | Details: Failed attempt 1.
+[2026-07-05 08:37:52] User: Asinsana | Action: LOGIN_FAILED | Details: Failed attempt 2.
+[2026-07-05 08:38:10] User: Asinsana | Action: LOGIN_FAILED | Details: Failed attempt 3.
+[2026-07-05 08:38:39] User: Asinsana | Action: LOGIN_FAILED | Details: Failed attempt 4.
+[2026-07-05 08:39:03] User: Azinsana | Action: USER_REGISTRATION | Details: User registered successfully.
+[2026-07-05 08:39:28] User: Azinsana | Action: LOGIN_FAILED | Details: Failed attempt 1.
+[2026-07-05 08:39:42] User: Azinsana | Action: LOGIN_FAILED | Details: Failed attempt 2.
+[2026-07-05 08:39:42] User: Azinsana | Action: LOGIN_FAILED | Details: Failed attempt 3.
+[2026-07-05 08:39:43] User: Azinsana | Action: LOGIN_FAILED | Details: Failed attempt 4.
+[2026-07-05 08:39:43] User: Azinsana | Action: ACCOUNT_LOCKOUT | Details: Account locked due to failed attempts.
+[2026-07-05 09:01:02] User: Chathum | Action: USER_REGISTRATION | Details: User registered successfully.
+[2026-07-05 09:01:16] User: Chathum | Action: USER_LOGIN | Details: Successful login.
